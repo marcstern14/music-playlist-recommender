@@ -1,4 +1,3 @@
 # music-playlist-recommender
-Spotify Editorial Playlist Classifier
+Spotify Editorial Playlist Classifier Research Paper
 
-Included are model weights and paper.
